@@ -1,4 +1,4 @@
-# dami
+# Dami
 
 ## Project setup
 ```
